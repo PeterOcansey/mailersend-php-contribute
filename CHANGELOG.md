@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Added support for psr/http-message to include version v.2.0
+- Added support for guzzlehttp/psr7 to v.2.5.0 - as required per psr/http-message v.2.0
+
 ### Changed
 
 ### Fixed
